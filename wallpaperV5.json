@@ -28,22 +28,665 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Kimmy",
+      "image": "https://i.ibb.co/0rmnRQ3/Kimmy.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "name_category": "Valentina",
+      "image": "https://i.ibb.co/brkZgGM/Valentina.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "Zilong",
+      "image": "https://i.ibb.co/SyHfcKh/Zilong.jpg"
+
+    },
+    {
+      "id": 4,
+      "name_category": "Zhask",
+      "image": "https://i.ibb.co/Pt6YjVq/Zhask.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Yve",
+      "image": "https://i.ibb.co/kmC7YR4/Yve.jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "Yu Zhong",
+      "image": "https://i.ibb.co/CMTtPx7/Yu-Zhong.jpg"
+
+    },
+    {
+      "id": 7,
+      "name_category": "Yi Sun Shin",
+      "image": "https://i.ibb.co/5T6krxt/Yi-Sun-Shin.jpg"
+
+    },
+    {
+      "id": 8,
+      "name_category": "X Borg",
+      "image": "https://i.ibb.co/PwyXxTd/X-Borg.jpg"
+
+    },
+    {
+      "id": 9,
+      "name_category": "Wanwan",
+      "image": "https://i.ibb.co/Fkvw70B/Wanwan.jpg"
+
+    },
+    {
+      "id": 10,
+      "name_category": "Vexana",
+      "image": "https://i.ibb.co/xJGnDqc/Vexana.jpg"
+
+    },
+    {
+      "id": 11,
+      "name_category": "Valir",
+      "image": "https://i.ibb.co/WtdpZB6/Valir.jpg"
+
+    },
+    {
+      "id": 12,
+      "name_category": "Vale",
+      "image": "https://i.ibb.co/jH9NfZZ/Vale.jpg"
+
+    },
+    {
+      "id": 13,
+      "name_category": "Uranus",
+      "image": "https://i.ibb.co/1bt9ZdB/Uranus.jpg"
+
+    },
+    {
+      "id": 14,
+      "name_category": "Tigreal",
+      "image": "https://i.ibb.co/mzSV72B/Tigreal.jpg"
+
+    },
+    {
+      "id": 15,
+      "name_category": "Thamuz",
+      "image": "https://i.ibb.co/S3TfB4S/Thamuz.jpg"
+
+    },
+    {
+      "id": 16,
+      "name_category": "Terizla",
+      "image": "https://i.ibb.co/yfMZFFH/Terizla.jpg"
+
+    },
+    {
+      "id": 17,
+      "name_category": "Sun",
+      "image": "https://i.ibb.co/7rbqZG3/Sun.jpg"
+
+    },
+    {
+      "id": 18,
+      "name_category": "Spacetime",
+      "image": "https://i.ibb.co/Lvv4D3V/Spacetime.jpg"
+
+    },
+    {
+      "id": 19,
+      "name_category": "Silvanna",
+      "image": "https://i.ibb.co/b2JcnCB/Silvanna.jpg"
+
+    },
+    {
+      "id": 20,
+      "name_category": "Selena",
+      "image": "https://i.ibb.co/JBzMsyh/Selena.jpg"
+
+    },
+    {
+      "id": 21,
+      "name_category": "Saber",
+      "image": "https://i.ibb.co/F7Kt7PZ/Saber.jpg"
+
+    },
+    {
+      "id": 22,
+      "name_category": "Ruby",
+      "image": "https://i.ibb.co/jTRpgXv/Ruby.jpg"
+
+    },
+    {
+      "id": 23,
+      "name_category": "Roger",
+      "image": "https://i.ibb.co/xGYmdgb/Roger.jpg"
+
+    },
+    {
+      "id": 24,
+      "name_category": "Rafaela",
+      "image": "https://i.ibb.co/4gwsM5f/Rafaela.jpg"
+
+    },
+    {
+      "id": 25,
+      "name_category": "Popol And Kupa",
+      "image": "https://i.ibb.co/tzfGSLn/Popol-And-Kupa.jpg"
+
+    },
+    {
+      "id": 26,
+      "name_category": "Phoveus",
+      "image": "https://i.ibb.co/BNdJLVd/Phoveus.jpg"
+
+    },
+    {
+      "id": 27,
+      "name_category": "Pharsa",
+      "image": "https://i.ibb.co/CBh9b1q/Pharsa.jpg"
+
+    },
+    {
+      "id": 28,
+      "name_category": "Paquito",
+      "image": "https://i.ibb.co/6PfK3g7/Paquito.jpg"
+
+    },
+    {
+      "id": 29,
+      "name_category": "Oddete",
+      "image": "https://i.ibb.co/bBZRqng/Oddete.jpg"
+
+    },
+    {
+      "id": 30,
+      "name_category": "Natalia",
+      "image": "https://i.ibb.co/dfvDCff/Natalia.jpg"
+
+    },
+    {
+      "id": 31,
+      "name_category": "Nana",
+      "image": "https://i.ibb.co/sH8DYkw/Nana.jpg"
+
+    },
+    {
+      "id": 32,
+      "name_category": "Moskov",
+      "image": "https://i.ibb.co/thv4RCb/Moskov.jpg"
+
+    },
+    {
+      "id": 33,
+      "name_category": "Miya",
+      "image": "https://i.ibb.co/LzqqSDt/Miya.jpg"
+
+    },
+    {
+      "id": 34,
+      "name_category": "Minsitthar",
+      "image": "https://i.ibb.co/LNRtFLz/Minsitthar.jpg"
+
+    },
+    {
+      "id": 35,
+      "name_category": "Minotaur",
+      "image": "https://i.ibb.co/jr2hWs4/Minotaur.jpg"
+
+    },
+    {
+      "id": 36,
+      "name_category": "Mathilda",
+      "image": "https://i.ibb.co/LSJwppk/Mathilda.jpg"
+
+    },
+    {
+      "id": 37,
+      "name_category": "Masha",
+      "image": "https://i.ibb.co/gZc4Z4H/Masha.jpg"
+
+    },
+    {
+      "id": 38,
+      "name_category": "Martis",
+      "image": "https://i.ibb.co/KzNbLpC/Martis.jpg"
+
+    },
+    {
+      "id": 39,
+      "name_category": "Lylia",
+      "image": "https://i.ibb.co/QcHjFX4/Lylia.jpg"
+
+    },
+    {
+      "id": 40,
+      "name_category": "Luo Yi",
+      "image": "https://i.ibb.co/866HQyz/Luo-Yi.jpg"
+
+    },
+    {
+      "id": 41,
+      "name_category": "Lunox",
+      "image": "https://i.ibb.co/0sRqHkb/Lunox.jpg"
+
+    },
+    {
+      "id": 42,
+      "name_category": "Lolita",
+      "image": "https://i.ibb.co/tJWnxTd/Lolita.jpg"
+
+    },
+    {
+      "id": 43,
+      "name_category": "Ling",
+      "image": "https://i.ibb.co/Mc4QTSW/Ling.jpg"
+
+    },
+    {
+      "id": 44,
+      "name_category": "Lesley",
+      "image": "https://i.ibb.co/NKdDQDS/Lesley.jpg"
+
+    },
+    {
+      "id": 45,
+      "name_category": "Leomord",
+      "image": "https://i.ibb.co/Cbz9LFp/Leomord.jpg"
+
+    },
+    {
+      "id": 46,
+      "name_category": "Layla",
+      "image": "https://i.ibb.co/TcdMTy6/Layla.jpg"
+
+    },
+    {
+      "id": 47,
+      "name_category": "Lapu Lapu",
+      "image": "https://i.ibb.co/rcwZJLF/Lapu-Lapu.jpg"
+
+    },
+    {
+      "id": 48,
+      "name_category": "Lancelot",
+      "image": "https://i.ibb.co/dr0GMCT/Lancelot.jpg"
+
+    },
+    {
+      "id": 49,
+      "name_category": "Khaleed",
+      "image": "https://i.ibb.co/3dfnQ9H/Khaleed.jpg"
+
+    },
+    {
+      "id": 50,
+      "name_category": "Khufra",
+      "image": "https://i.ibb.co/hVXFtRt/Khufra.jpg"
+
+    },
+    {
+      "id": 51,
+      "name_category": "Karrie",
+      "image": "https://i.ibb.co/YhGYNwc/Karrie.jpg"
+
+    },
+    {
+      "id": 52,
+      "name_category": "Karina",
+      "image": "https://i.ibb.co/564Pp6b/Karina.jpg"
+
+    },
+    {
+      "id": 53,
+      "name_category": "Kaja",
+      "image": "https://i.ibb.co/wMvRs6w/Kaja.jpg"
+
+    },
+    {
+      "id": 54,
+      "name_category": "Kagura",
+      "image": "https://i.ibb.co/GpMpR10/Kagura.jpg"
+
+    },
+    {
+      "id": 55,
+      "name_category": "Kadita",
+      "image": "https://i.ibb.co/g7QMSHs/Kadita.jpg"
+
+    },
+    {
+      "id": 56,
+      "name_category": "Johnson",
+      "image": "https://i.ibb.co/25zgcQn/Johnson.jpg"
+
+    },
+    {
+      "id": 57,
+      "name_category": "Jawhead",
+      "image": "https://i.ibb.co/9yRzcg9/Jawhead.jpg"
+
+    },
+    {
+      "id": 58,
+      "name_category": "Irithel",
+      "image": "https://i.ibb.co/XbBWCcR/Irithel.jpg"
+
+    },
+    {
+      "id": 59,
+      "name_category": "Hylos",
+      "image": "https://i.ibb.co/t23L3cx/Hylos.jpg"
+
+    },
+    {
+      "id": 60,
+      "name_category": "Hilda",
+      "image": "https://i.ibb.co/vvxxSPY/Hilda.jpg"
+
+    },
+    {
+      "id": 61,
+      "name_category": "Helcurt",
+      "image": "https://i.ibb.co/TH7DFwH/Helcurt.jpg"
+
+    },
+    {
+      "id": 62,
+      "name_category": "Hayabusa",
+      "image": "https://i.ibb.co/TKMhbv8/Hayabusa.jpg"
+
+    },
+    {
+      "id": 63,
+      "name_category": "Harley",
+      "image": "https://i.ibb.co/T8B5Nq3/Harley.jpg"
+
+    },
+    {
+      "id": 64,
+      "name_category": "Harith",
+      "image": "https://i.ibb.co/2ZwSTts/Harith.jpg"
+
+    },
+    {
+      "id": 65,
+      "name_category": "Hanzo",
+      "image": "https://i.ibb.co/6PpjKK0/Hanzo.jpg"
+
+    },
+    {
+      "id": 66,
+      "name_category": "Hanabi",
+      "image": "https://i.ibb.co/9pxRR8d/Hanabi.jpg"
+
+    },
+    {
+      "id": 67,
+      "name_category": "Gusion",
+      "image": "https://i.ibb.co/HpVpLDD/Gusion.jpg"
+
+    },
+    {
+      "id": 68,
+      "name_category": "Guinevere",
+      "image": "https://i.ibb.co/9p5jYVD/Guinevere.jpg"
+
+    },
+    {
+      "id": 69,
+      "name_category": "Granger",
+      "image": "https://i.ibb.co/pnLHCfd/Granger.jpg"
+
+    },
+    {
+      "id": 70,
+      "name_category": "Grock",
+      "image": "https://i.ibb.co/wMY5wSh/Grock.jpg"
+
+    },
+    {
+      "id": 71,
+      "name_category": "Gord",
+      "image": "https://i.ibb.co/7JNmWMM/Gord.jpg"
+
+    },
+    {
+      "id": 72,
+      "name_category": "Gloo",
+      "image": "https://i.ibb.co/3NfdPcw/Gloo.jpg"
+
+    },
+    {
+      "id": 73,
+      "name_category": "Gatotkaca",
+      "image": "https://i.ibb.co/NxtJLt5/Gatotkaca.jpg"
+
+    },
+    {
+      "id": 74,
+      "name_category": "Freya",
+      "image": "https://i.ibb.co/hyGrWQn/Freya.jpg"
+
+    },
+    {
+      "id": 75,
+      "name_category": "Franco",
+      "image": "https://i.ibb.co/rGjFd1g/Franco.jpg"
+
+    },
+    {
+      "id": 76,
+      "name_category": "Faramis",
+      "image": "https://i.ibb.co/mJDzCYb/Faramis.jpg"
+
+    },
+    {
+      "id": 77,
+      "name_category": "Fanny",
+      "image": "https://i.ibb.co/kx7mss3/Fanny.jpg"
+
+    },
+    {
+      "id": 78,
+      "name_category": "Eudora",
+      "image": "https://i.ibb.co/R4D3xsQ/Eudora.jpg"
+
+    },
+    {
+      "id": 79,
+      "name_category": "Estes",
+      "image": "https://i.ibb.co/yW9pSDN/Estes.jpg"
+
+    },
+    {
+      "id": 80,
+      "name_category": "Esmeralda",
+      "image": "https://i.ibb.co/HGdJqkN/Esmeralda.jpg"
+
+    },
+    {
+      "id": 81,
+      "name_category": "Dyrroth",
+      "image": "https://i.ibb.co/db1Nzjb/Dyrroth.jpg"
+
+    },
+    {
+      "id": 82,
+      "name_category": "Diggie",
+      "image": "https://i.ibb.co/QrRJhCd/Diggie.jpg"
+
+    },
+    {
+      "id": 83,
+      "name_category": "Cyclops",
+      "image": "https://i.ibb.co/3M79XDf/Cyclops.jpg"
+
+    },
+    {
+      "id": 84,
+      "name_category": "Clint",
+      "image": "https://i.ibb.co/xHbMT47/Clint.jpg"
+
+    },
+    {
+      "id": 85,
+      "name_category": "Claude",
+      "image": "https://i.ibb.co/KrTcvpM/Claude.jpg"
+
+    },
+    {
+      "id": 86,
+      "name_category": "Chou",
+      "image": "https://i.ibb.co/DGy11vr/Chou.jpg"
+
+    },
+    {
+      "id": 87,
+      "name_category": "Change",
+      "image": "https://i.ibb.co/dGhmpzd/Change.jpg"
+
+    },
+    {
+      "id": 88,
+      "name_category": "Cecilion",
+      "image": "https://i.ibb.co/b5y80XQ/Cecilion.jpg"
+
+    },
+    {
+      "id": 89,
+      "name_category": "Carmilla",
+      "image": "https://i.ibb.co/QYRy1b5/Carmilla.jpg"
+
+    },
+    {
+      "id": 90,
+      "name_category": "Bruno",
+      "image": "https://i.ibb.co/5n851MX/Bruno.jpg"
+
+    },
+    {
+      "id": 91,
+      "name_category": "Brody",
+      "image": "https://i.ibb.co/DMx7q4M/Brody.jpg"
+
+    },
+    {
+      "id": 92,
+      "name_category": "Benedetta",
+      "image": "https://i.ibb.co/DMMVZQn/Benedetta.jpg"
+
+    },
+    {
+      "id": 93,
+      "name_category": "Beatrix",
+      "image": "https://i.ibb.co/SJQdxxB/Beatrix.jpg"
+
+    },
+    {
+      "id": 94,
+      "name_category": "Belerick",
+      "image": "https://i.ibb.co/nkw22pq/Belerick.jpg"
+
+    },
+    {
+      "id": 95,
+      "name_category": "Baxia",
+      "image": "https://i.ibb.co/McyLQcy/Baxia.jpg"
+
+    },
+    {
+      "id": 96,
+      "name_category": "Barats",
+      "image": "https://i.ibb.co/TwXDmXT/Barats.jpg"
+
+    },
+    {
+      "id": 97,
+      "name_category": "Bane",
+      "image": "https://i.ibb.co/sgwsHsr/Bane.jpg"
+
+    },
+    {
+      "id": 98,
+      "name_category": "Balmond",
+      "image": "https://i.ibb.co/prfGBwd/Balmond.jpg"
+
+    },
+    {
+      "id": 99,
+      "name_category": "Badang",
+      "image": "https://i.ibb.co/44S89gw/Badang.jpg"
+
+    },
+    {
+      "id": 100,
+      "name_category": "Aurora",
+      "image": "https://i.ibb.co/ftd75fm/Aurora.jpg"
+
+    },
+    {
+      "id": 101,
+      "name_category": "Aulus",
+      "image": "https://i.ibb.co/MBngwMV/Aulus.jpg"
+
+    },
+    {
+      "id": 102,
+      "name_category": "Atlas",
+      "image": "https://i.ibb.co/86PHtq6/Atlas.jpg"
+
+    },
+    {
+      "id": 103,
+      "name_category": "Argus",
+      "image": "https://i.ibb.co/4WVCPvr/Argus.jpg"
+
+    },
+    {
+      "id": 104,
+      "name_category": "Angela",
+      "image": "https://i.ibb.co/HtG0JsR/Angela.jpg"
+
+    },
+    {
+      "id": 105,
+      "name_category": "Alucard",
+      "image": "https://i.ibb.co/pjXBfCJ/Alucard.jpg"
+
+    },
+    {
+      "id": 106,
+      "name_category": "Alpha",
+      "image": "https://i.ibb.co/4PTSYCB/Alpha.jpg"
+
+    },
+    {
+      "id": 107,
+      "name_category": "Alice",
+      "image": "https://i.ibb.co/XLw1PKg/Alice.jpg"
+
+    },
+    {
+      "id": 108,
+      "name_category": "Aldous",
+      "image": "https://i.ibb.co/58FcgsZ/Aldous.jpg"
+
+    },
+    {
+      "id": 109,
+      "name_category": "Aamon",
+      "image": "https://i.ibb.co/pXjBPjp/Aamon.jpg"
+
+    },
+    {
+      "id": 110,
+      "name_category": "Akai",
+      "image": "https://i.ibb.co/ZKVhGND/Akai.jpg"
 
     }
+
   ],
 
   "Data":
