@@ -24,11 +24,11 @@
   ],
   "More":
   [
-
+ 
   ],
 
   "Categories": [
-     {
+    {
       "id": 1,
       "name_category": "Kimmy",
       "image": "https://i.ibb.co/0rmnRQ3/Kimmy.jpg"
@@ -690,8 +690,6 @@
     }
   ],
 
-  "Data":
-  [
   "Data":
   [
     {
